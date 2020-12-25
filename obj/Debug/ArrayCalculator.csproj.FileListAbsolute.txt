@@ -1,0 +1,10 @@
+C:\Users\artsiom.zaitsau\RiderProjects\ArrayCalculator\bin\Debug\ArrayCalculator.exe.config
+C:\Users\artsiom.zaitsau\RiderProjects\ArrayCalculator\bin\Debug\ArrayCalculator.exe
+C:\Users\artsiom.zaitsau\RiderProjects\ArrayCalculator\bin\Debug\ArrayCalculator.pdb
+C:\Users\artsiom.zaitsau\RiderProjects\ArrayCalculator\obj\Debug\ArrayCalculator.csprojAssemblyReference.cache
+C:\Users\artsiom.zaitsau\RiderProjects\ArrayCalculator\obj\Debug\ArrayCalculator.Properties.Resources.resources
+C:\Users\artsiom.zaitsau\RiderProjects\ArrayCalculator\obj\Debug\ArrayCalculator.csproj.GenerateResource.cache
+C:\Users\artsiom.zaitsau\RiderProjects\ArrayCalculator\obj\Debug\ArrayCalculator.csproj.CoreCompileInputs.cache
+C:\Users\artsiom.zaitsau\RiderProjects\ArrayCalculator\obj\Debug\ArrayCalculator.exe
+C:\Users\artsiom.zaitsau\RiderProjects\ArrayCalculator\obj\Debug\ArrayCalculator.pdb
+C:\Users\artsiom.zaitsau\RiderProjects\ArrayCalculator\obj\Debug\ArrayCalculator.Form1.resources
